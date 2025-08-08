@@ -137,5 +137,22 @@ This scaffold includes a comprehensive set of modern web development tools:
 4. **Deploy with confidence** using the production-ready setup
 
 ---
+screen shot
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 152957" src="https://github.com/user-attachments/assets/05e693f4-b9df-4215-8d76-691c836d78ba" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 152830" src="https://github.com/user-attachments/assets/418ada59-6302-40dd-aa3f-82959b85<img width="1920" height="1080" alt="Screenshot 2025-08-08 152916" src="https://github.com/user-attachments/assets/cfe743fb-bd2a-4d40-be73-cbe75c7b2832" />
+5447" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 152855" src="https://github.com/user-attachments/assets/9a45f7d4-d842-4828-b045-577af08ae94b" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 152935" src="https://github.com/user-attachments/assets/3b755588-25fc-4e22-9d24-87e8b4ebf944" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 152916" src="https://github.com/user-attachments/assets/cb53dbd2-e24c-4b66-9e02-0277eb78a699" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 152855" src="https://github.com/user-attachments/assets/7980a6ee-cc3b-469b-842d-d389b56c4bef" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 152830" src="https://github.com/user-attachments/assets/c0619c66-042a-481f-89b9-b3ffe68d8409" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 152830" src="https://github.com/user-attachments/assets/230df2ca-0d63-49f6-ade9-1ad27eb4ffc9" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 152957" src="https://github.com/user-attachments/assets/80d0cafe-47e5-4a46-b6b6-cb5120377fa0" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 152957" src="https://github.com/user-attachments/assets/62410b72-a543-4896-890b-728ac6f728b3" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 152935" src="https://github.com/user-attachments/assets/652beccf-9844-470b-98b1-9eba0a450ff5" />
 
 Built with ❤️ for the developer community. Supercharged by [Z.ai](https://chat.z.ai) 🚀
