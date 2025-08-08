@@ -9,8 +9,11 @@ https://github.com/Looprx/VASCO-D-LUFFY2
 🚀 medicine cure
 Basic Details
 Project Name: medicure
-Team Name: [Your Team Name Here]
+
+Team Name: [VASCO D LUFFY]
+
 Team Members
+
 Team Lead: [Shinoy TS] - [SNMIMT]
 
 Member 2: [Akhilesh KS] - [SNMIMT]
